@@ -1,0 +1,24 @@
+# Ignore everything by default
+*
+
+# Allow only folders needed for client sync
+!mods/
+!config/
+!datapacks/
+
+# Include their contents
+!mods/**
+!config/**
+!datapacks/**
+
+# Allow optional metadata files (if you want)
+!.gitignore
+!manifest.json
+!modlist.html
+!README.md
+
+# Allow specific script
+!update.bat
+
+# ignore mode
+mods/zmedievalmusic-fabric-1.21-2.1.jar

@@ -1,0 +1,27 @@
+{
+	autofocus_id: "1152D6D3E6845F83"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "getting_started"
+	group: "5208888B0663DCE9"
+	id: "2E6B6CB120CA9FF1"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "1152D6D3E6845F83"
+		rewards: [{
+			auto: "enabled"
+			id: "1B636BB5AC789DC8"
+			type: "xp_levels"
+			xp_levels: 1
+		}]
+		tasks: [{
+			advancement: "rpg_series:classes"
+			criterion: ""
+			id: "6706A10C9F2775FF"
+			type: "advancement"
+		}]
+		x: -7.0d
+		y: -0.5d
+	}]
+}
