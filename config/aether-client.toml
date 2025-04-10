@@ -45,8 +45,6 @@
 	"Perks layout x-coordinate in pause menu" = -116
 	#The y-coordinate of the layout of perks buttons when in the pause menu
 	"Perks layout y-coordinate in pause menu" = 0
-	#Adds random trivia and tips to the bottom of loading screens
-	"Enables random trivia" = true
 
 [Audio]
 	#Makes Blue Aerclouds have their wobbly sounds that play when bouncing on them
