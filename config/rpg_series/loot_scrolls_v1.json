@@ -271,7 +271,7 @@
       ]
     },
     "minecraft:chests/trial_chambers/reward_ominous_common": {
-      "rolls": 0.5,
+      "rolls": 0.3,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -289,7 +289,7 @@
       ]
     },
     "minecraft:chests/trial_chambers/reward_common": {
-      "rolls": 0.5,
+      "rolls": 0.3,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -307,7 +307,7 @@
       ]
     },
     "minecraft:chests/trial_chambers/reward_ominous_rare": {
-      "rolls": 0.5,
+      "rolls": 0.3,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -325,7 +325,7 @@
       ]
     },
     "minecraft:chests/trial_chambers/reward_rare": {
-      "rolls": 0.5,
+      "rolls": 0.3,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -343,7 +343,7 @@
       ]
     },
     "nova_structures:chests/desert_ruins/desert_ruin_lesser_treasure": {
-      "rolls": 0.5,
+      "rolls": 0.3,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -361,7 +361,7 @@
       ]
     },
     "nova_structures:chests/nether_keep/vault_keep": {
-      "rolls": 0.5,
+      "rolls": 0.3,
       "bonus_rolls": 0.2,
       "entries": [
         {

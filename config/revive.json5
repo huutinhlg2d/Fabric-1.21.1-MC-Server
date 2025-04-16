@@ -1,6 +1,6 @@
 {
 	// Time in ticks: -1 disables timer
-	"timer": -1,
+	"timer": 60,
 	// Drops player loot directly
 	"dropLoot": false,
 	// Drops player inventory items randomly
@@ -10,7 +10,7 @@
 	// Chance for each inventory item to drop
 	"dropChance": 0.30000001192092896,
 	// Mainly for compatibility with RpgZ
-	"allowLootablePlayer": true,
+	"allowLootablePlayer": false,
 	// Revive without a potion
 	"allowReviveWithHand": true,
 	"reviveHealthPoints": 2,

@@ -23,6 +23,7 @@
     "aether:invisibility_cloak",
     "!eternal_starlight:.*bow",
     "eternal_starlight:starfall_longbow",
+    "eternal_starlight:wand_of_teleportation",
     "illagerinvasion:platinum_chunk",
     "bosses_of_mass_destruction:mob_ward",
     "bosses_of_mass_destruction:charged_ender_pearl",
@@ -32,7 +33,19 @@
     "formidulus:bulwark",
     "formidulus:great_lantern",
     "gliding:stone_glider",
-    "gliding:golden_glider"
+    "gliding:golden_glider",
+    "!betterend:crystalite.*",
+    "betterend:elytra_crystalite",
+    "betterend:terminite_helmet",
+    "betterend:terminite_chestplate",
+    "betterend:terminite_leggings",
+    "betterend:terminite_boots",
+    "betterend:thallasium_helmet",
+    "betterend:thallasium_chestplate",
+    "betterend:thallasium_leggings",
+    "betterend:thallasium_boots",
+    "endrem:witch_pupil",
+    "endrem:undead_soul"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain Component Data. If the whole entry (or expression) is present, the item gets removed.

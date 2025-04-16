@@ -5,6 +5,32 @@
       "name": "Daedelus",
       "uniqueId": "8f160ea5-fe0a-43cc-a32b-22e542006bd9"
     },
+    "time": 1744753083436,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/SoabYrNZll"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Daedelus",
+      "uniqueId": "8f160ea5-fe0a-43cc-a32b-22e542006bd9"
+    },
+    "time": 1744753082489,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/e0u2Xkfmxq"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Daedelus",
+      "uniqueId": "8f160ea5-fe0a-43cc-a32b-22e542006bd9"
+    },
     "time": 1743538115037,
     "type": "Profiler",
     "data": {
@@ -49,19 +75,6 @@
     "data": {
       "type": "url",
       "value": "https://spark.lucko.me/uLk3qvaLxW"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "Daedelus",
-      "uniqueId": "8f160ea5-fe0a-43cc-a32b-22e542006bd9"
-    },
-    "time": 1739566683260,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/7hqvenxY11"
     }
   }
 ]

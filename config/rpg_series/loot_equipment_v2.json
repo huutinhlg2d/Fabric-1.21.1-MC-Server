@@ -688,7 +688,7 @@
       ]
     },
     "minecraft:chests/trial_chambers/reward_ominous_rare": {
-      "rolls": 1.0,
+      "rolls": 0.5,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -724,7 +724,7 @@
       ]
     },
     "minecraft:chests/trial_chambers/reward_rare": {
-      "rolls": 1.0,
+      "rolls": 0.5,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -760,7 +760,7 @@
       ]
     },
     "minecraft:chests/trial_chambers/reward_ominous_unique": {
-      "rolls": 1.0,
+      "rolls": 0.5,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -774,7 +774,7 @@
           }
         },
         {
-          "id": "#rpg_series:loot_tier/tier_4_accessories",
+          "id": "#rpg_series:loot_tier/tier_3_accessories",
           "filters_lenient": true,
           "weight": 2
         },
@@ -786,7 +786,7 @@
       ]
     },
     "minecraft:chests/trial_chambers/reward_unique": {
-      "rolls": 1.0,
+      "rolls": 0.5,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -798,11 +798,6 @@
             "max_power": 30.0,
             "allow_treasure": true
           }
-        },
-        {
-          "id": "#rpg_series:loot_tier/tier_4_accessories",
-          "filters_lenient": true,
-          "weight": 2
         },
         {
           "id": "#rpg_series:loot_tier/tier_3_relics",
@@ -1634,7 +1629,7 @@
       ]
     },
     "aether:chests/dungeon/silver/silver_dungeon_reward": {
-      "rolls": 0.5,
+      "rolls": 1.0,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -1650,13 +1645,13 @@
       ]
     },
     "aether:chests/dungeon/gold/gold_dungeon_reward": {
-      "rolls": 1.0,
+      "rolls": 2.0,
       "bonus_rolls": 0.2,
       "entries": [
         {
           "id": "#rpg_series:loot_theme/aether",
           "filters_lenient": true,
-          "weight": 4,
+          "weight": 5,
           "enchant": {
             "min_power": 1.0,
             "max_power": 30.0,
@@ -2633,6 +2628,114 @@
       ]
     },
     "nova_structures:chests/piglin_donjon/vault_piglin_donjon": {
+      "rolls": 1.0,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#rpg_series:loot_tier/tier_3_armors",
+          "filters_lenient": true,
+          "weight": 3,
+          "enchant": {
+            "min_power": 1.0,
+            "max_power": 30.0,
+            "allow_treasure": true
+          }
+        },
+        {
+          "id": "#rpg_series:loot_tier/tier_3_weapons",
+          "filters_lenient": true,
+          "weight": 3,
+          "enchant": {
+            "min_power": 1.0,
+            "max_power": 30.0,
+            "allow_treasure": true
+          }
+        },
+        {
+          "id": "#rpg_series:loot_tier/tier_3_accessories",
+          "filters_lenient": true,
+          "weight": 1
+        },
+        {
+          "id": "#rpg_series:loot_tier/tier_3_relics",
+          "filters_lenient": true,
+          "weight": 1
+        }
+      ]
+    },
+    "nova_structures:chests/hamlet/hamlet_tresure": {
+      "rolls": 1.0,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#rpg_series:loot_tier/tier_3_armors",
+          "filters_lenient": true,
+          "weight": 3,
+          "enchant": {
+            "min_power": 1.0,
+            "max_power": 30.0,
+            "allow_treasure": true
+          }
+        },
+        {
+          "id": "#rpg_series:loot_tier/tier_3_weapons",
+          "filters_lenient": true,
+          "weight": 3,
+          "enchant": {
+            "min_power": 1.0,
+            "max_power": 30.0,
+            "allow_treasure": true
+          }
+        },
+        {
+          "id": "#rpg_series:loot_tier/tier_3_accessories",
+          "filters_lenient": true,
+          "weight": 1
+        },
+        {
+          "id": "#rpg_series:loot_tier/tier_3_relics",
+          "filters_lenient": true,
+          "weight": 1
+        }
+      ]
+    },
+    "nova_structures:chests/piglin_outstation/outstation_treasure": {
+      "rolls": 1.0,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#rpg_series:loot_tier/tier_3_armors",
+          "filters_lenient": true,
+          "weight": 3,
+          "enchant": {
+            "min_power": 1.0,
+            "max_power": 30.0,
+            "allow_treasure": true
+          }
+        },
+        {
+          "id": "#rpg_series:loot_tier/tier_3_weapons",
+          "filters_lenient": true,
+          "weight": 3,
+          "enchant": {
+            "min_power": 1.0,
+            "max_power": 30.0,
+            "allow_treasure": true
+          }
+        },
+        {
+          "id": "#rpg_series:loot_tier/tier_3_accessories",
+          "filters_lenient": true,
+          "weight": 1
+        },
+        {
+          "id": "#rpg_series:loot_tier/tier_3_relics",
+          "filters_lenient": true,
+          "weight": 1
+        }
+      ]
+    },
+    "nova_structures:chests/piglin_outstation/vault_piglin_outstation": {
       "rolls": 1.0,
       "bonus_rolls": 0.2,
       "entries": [

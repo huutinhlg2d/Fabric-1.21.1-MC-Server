@@ -3,7 +3,7 @@
   "rendering": {
     "custom_sky": true,
     "sulfur_water_color": true,
-    "blend_biome_music": true
+    "blend_biome_music": false
   },
   "modify_version": "21.0.11"
 }

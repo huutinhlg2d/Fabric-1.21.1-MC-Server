@@ -1,7 +1,7 @@
 {
   "shields": {
     "arsenal:unique_shield_1": {
-      "durability": 2688,
+      "durability": 4032,
       "attributes": [
         {
           "attribute": "minecraft:generic.armor_toughness",
@@ -16,7 +16,7 @@
       ]
     },
     "arsenal:unique_shield_sw": {
-      "durability": 2688,
+      "durability": 4032,
       "attributes": [
         {
           "attribute": "minecraft:generic.armor_toughness",
