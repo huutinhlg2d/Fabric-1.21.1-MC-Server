@@ -116,7 +116,7 @@
 				item: { count: 1, id: "endrem:nether_eye" }
 				type: "item"
 			}]
-			x: 31.0d
+			x: 31.5d
 			y: -2.0d
 		}
 		{
@@ -127,7 +127,7 @@
 				item: { count: 1, id: "bosses_of_mass_destruction:blazing_eye" }
 				type: "item"
 			}]
-			x: 29.0d
+			x: 29.5d
 			y: 0.0d
 		}
 		{
@@ -138,7 +138,7 @@
 				item: { count: 1, id: "quest_items:wither_ribcage" }
 				type: "item"
 			}]
-			x: 29.0d
+			x: 29.5d
 			y: -4.0d
 		}
 		{
@@ -149,7 +149,7 @@
 				item: { count: 1, id: "quest_items:wildfire_essence" }
 				type: "item"
 			}]
-			x: 29.0d
+			x: 29.5d
 			y: 6.5d
 		}
 		{
@@ -160,7 +160,7 @@
 				id: "61AE13609D6811B2"
 				type: "dimension"
 			}]
-			x: 24.0d
+			x: 24.5d
 			y: 1.0d
 		}
 		{
@@ -185,7 +185,7 @@
 				item: { count: 1, id: "endrem:cold_eye" }
 				type: "item"
 			}]
-			x: 19.0d
+			x: 19.5d
 			y: -2.0d
 		}
 		{
@@ -199,7 +199,7 @@
 				structure: "bosses_of_mass_destruction:gauntlet_arena"
 				type: "structure"
 			}]
-			x: 27.0d
+			x: 27.5d
 			y: 0.0d
 		}
 		{
@@ -213,7 +213,7 @@
 				structure: "friendsandfoes:citadel"
 				type: "structure"
 			}]
-			x: 27.0d
+			x: 27.5d
 			y: 6.5d
 		}
 		{
@@ -233,7 +233,7 @@
 					type: "item"
 				}
 			]
-			x: 27.0d
+			x: 27.5d
 			y: -4.0d
 		}
 		{
@@ -244,7 +244,7 @@
 				item: { count: 1, id: "bosses_of_mass_destruction:ancient_anima" }
 				type: "item"
 			}]
-			x: 18.0d
+			x: 18.5d
 			y: -4.0d
 		}
 		{
@@ -258,7 +258,7 @@
 				structure: "bosses_of_mass_destruction:lich_tower"
 				type: "structure"
 			}]
-			x: 16.0d
+			x: 16.5d
 			y: -4.0d
 		}
 		{
@@ -270,7 +270,7 @@
 				item: { count: 4, id: "bosses_of_mass_destruction:soul_star" }
 				type: "item"
 			}]
-			x: 14.0d
+			x: 14.5d
 			y: -4.0d
 		}
 		{
@@ -284,7 +284,7 @@
 				structure: "nova_structures:lone_citadel"
 				type: "structure"
 			}]
-			x: 15.0d
+			x: 15.5d
 			y: -2.0d
 		}
 		{
@@ -295,7 +295,7 @@
 				item: { count: 1, id: "quest_items:frozen_grail" }
 				type: "item"
 			}]
-			x: 17.0d
+			x: 17.5d
 			y: -2.0d
 		}
 		{
@@ -309,7 +309,7 @@
 				structure: "nova_structures:illager_manor"
 				type: "structure"
 			}]
-			x: 15.0d
+			x: 15.5d
 			y: 4.5d
 		}
 		{
@@ -320,7 +320,7 @@
 				item: { count: 1, id: "quest_items:corruption_orb" }
 				type: "item"
 			}]
-			x: 17.0d
+			x: 17.5d
 			y: 4.5d
 		}
 		{
@@ -344,7 +344,7 @@
 				item: { count: 1, id: "endrem:corrupted_eye" }
 				type: "item"
 			}]
-			x: 19.0d
+			x: 19.5d
 			y: 4.5d
 		}
 		{
@@ -358,7 +358,7 @@
 				structure: "nova_structures:badlands_miner_outpost"
 				type: "structure"
 			}]
-			x: 15.0d
+			x: 15.5d
 			y: 2.5d
 		}
 		{
@@ -369,7 +369,7 @@
 				item: { count: 1, id: "quest_items:shackles" }
 				type: "item"
 			}]
-			x: 17.0d
+			x: 17.5d
 			y: 2.5d
 		}
 		{
@@ -384,7 +384,7 @@
 				item: { count: 1, id: "endrem:evil_eye" }
 				type: "item"
 			}]
-			x: 44.0d
+			x: 44.5d
 			y: -2.0d
 		}
 		{
@@ -398,7 +398,7 @@
 				id: "6085645F7BC3E482"
 				type: "dimension"
 			}]
-			x: 38.0d
+			x: 38.5d
 			y: -2.0d
 		}
 		{
@@ -412,8 +412,8 @@
 				structure: "aether:gold_dungeon"
 				type: "structure"
 			}]
-			x: 40.0d
-			y: 0.0d
+			x: 40.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["3D695BF27B17CFBE"]
@@ -426,7 +426,7 @@
 				structure: "aether:silver_dungeon"
 				type: "structure"
 			}]
-			x: 40.0d
+			x: 40.5d
 			y: -2.0d
 		}
 		{
@@ -440,8 +440,8 @@
 				structure: "aether:bronze_dungeon"
 				type: "structure"
 			}]
-			x: 40.0d
-			y: -4.0d
+			x: 40.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1BFA17A37065F8AB"]
@@ -451,8 +451,8 @@
 				item: { count: 1, id: "quest_items:aether_essence" }
 				type: "item"
 			}]
-			x: 42.0d
-			y: -4.0d
+			x: 42.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["57E75148FBB94DA4"]
@@ -462,7 +462,7 @@
 				item: { count: 1, id: "quest_items:silver_feather" }
 				type: "item"
 			}]
-			x: 42.0d
+			x: 42.5d
 			y: -2.0d
 		}
 		{
@@ -473,8 +473,8 @@
 				item: { count: 1, id: "quest_items:golden_lantern" }
 				type: "item"
 			}]
-			x: 42.0d
-			y: 0.0d
+			x: 42.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["5DAC599FCBC43A61"]
@@ -487,7 +487,7 @@
 				structure: "nova_structures:toxic_lair"
 				type: "structure"
 			}]
-			x: 15.0d
+			x: 15.5d
 			y: 9.0d
 		}
 		{
@@ -498,7 +498,7 @@
 				item: { count: 1, id: "quest_items:toxic_vial" }
 				type: "item"
 			}]
-			x: 17.0d
+			x: 17.5d
 			y: 9.0d
 		}
 		{
@@ -522,7 +522,7 @@
 				item: { count: 1, id: "endrem:lost_eye" }
 				type: "item"
 			}]
-			x: 44.0d
+			x: 44.5d
 			y: 4.5d
 		}
 		{
@@ -536,7 +536,7 @@
 				structure: "bosses_of_mass_destruction:void_blossom"
 				type: "structure"
 			}]
-			x: 15.0d
+			x: 15.5d
 			y: 11.0d
 		}
 		{
@@ -547,7 +547,7 @@
 				item: { count: 1, id: "bosses_of_mass_destruction:void_thorn" }
 				type: "item"
 			}]
-			x: 17.0d
+			x: 17.5d
 			y: 11.0d
 		}
 		{
@@ -571,7 +571,7 @@
 				item: { count: 1, id: "endrem:cursed_eye" }
 				type: "item"
 			}]
-			x: 31.0d
+			x: 31.5d
 			y: 4.5d
 		}
 		{
@@ -595,7 +595,7 @@
 				item: { count: 1, id: "endrem:guardian_eye" }
 				type: "item"
 			}]
-			x: 31.0d
+			x: 31.5d
 			y: 11.0d
 		}
 		{
@@ -606,7 +606,7 @@
 				item: { count: 1, id: "endrem:black_eye" }
 				type: "item"
 			}]
-			x: 44.0d
+			x: 44.5d
 			y: 11.0d
 		}
 		{
@@ -631,7 +631,7 @@
 				item: { count: 1, id: "endrem:witch_eye" }
 				type: "item"
 			}]
-			x: 19.0d
+			x: 19.5d
 			y: 11.0d
 		}
 		{
@@ -645,7 +645,7 @@
 				structure: "dungeons_arise:keep_kayra"
 				type: "structure"
 			}]
-			x: 40.0d
+			x: 40.5d
 			y: 2.5d
 		}
 		{
@@ -659,7 +659,7 @@
 				structure: "dungeons_arise:shiraz_palace"
 				type: "structure"
 			}]
-			x: 40.0d
+			x: 40.5d
 			y: 4.5d
 		}
 		{
@@ -673,7 +673,7 @@
 				structure: "nova_structures:trident_trial_monument"
 				type: "structure"
 			}]
-			x: 27.0d
+			x: 27.5d
 			y: 11.0d
 		}
 		{
@@ -687,7 +687,7 @@
 				structure: "betteroceanmonuments:ocean_monument"
 				type: "structure"
 			}]
-			x: 27.0d
+			x: 27.5d
 			y: 13.0d
 		}
 		{
@@ -701,7 +701,7 @@
 				structure: "minecraft:bastion_remnant"
 				type: "structure"
 			}]
-			x: 27.0d
+			x: 27.5d
 			y: 2.5d
 		}
 		{
@@ -716,7 +716,7 @@
 				structure: "nova_structures:nether_port"
 				type: "structure"
 			}]
-			x: 27.0d
+			x: 27.5d
 			y: -2.0d
 		}
 		{
@@ -727,7 +727,7 @@
 				item: { count: 1, id: "quest_items:molten_tablet" }
 				type: "item"
 			}]
-			x: 29.0d
+			x: 29.5d
 			y: -2.0d
 		}
 		{
@@ -738,7 +738,7 @@
 				item: { count: 1, id: "quest_items:corrupted_grail" }
 				type: "item"
 			}]
-			x: 29.0d
+			x: 29.5d
 			y: 2.5d
 		}
 		{
@@ -749,17 +749,30 @@
 			]
 			dependency_requirement: "one_completed"
 			id: "7AFB049465CF5CEA"
-			rewards: [{
-				auto: "enabled"
-				count: 5
-				id: "4C82D55001A5451B"
-				item: {
-					count: 1
-					id: "minecraft:cooked_beef"
+			rewards: [
+				{
+					auto: "enabled"
+					count: 5
+					id: "4C82D55001A5451B"
+					item: {
+						count: 1
+						id: "minecraft:cooked_beef"
+					}
+					team_reward: true
+					type: "item"
 				}
-				team_reward: true
-				type: "item"
-			}]
+				{
+					command: "/loot give @p loot dungeon_heroes:pillager_outpost_map"
+					icon: {
+						id: "minecraft:map"
+					}
+					id: "60EED39D0C30F184"
+					permission_level: 3
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+			]
 			tasks: [
 				{
 					id: "733385FD1F02C7AB"
@@ -880,7 +893,7 @@
 					count: 1
 					id: "minecraft:emerald"
 				}
-				team_reward: false
+				team_reward: true
 				type: "item"
 			}]
 			tasks: [{
@@ -1070,7 +1083,7 @@
 				structure: "nova_structures:stray_fort"
 				type: "structure"
 			}]
-			x: 15.0d
+			x: 15.5d
 			y: 0.0d
 		}
 		{
@@ -1081,7 +1094,7 @@
 				item: { count: 1, id: "quest_items:frozen_skull" }
 				type: "item"
 			}]
-			x: 17.0d
+			x: 17.5d
 			y: 0.0d
 		}
 		{
@@ -1116,7 +1129,7 @@
 				structure: "takesapillage:bastille"
 				type: "structure"
 			}]
-			x: 15.0d
+			x: 15.5d
 			y: 6.5d
 		}
 		{
@@ -1131,7 +1144,7 @@
 				id: "53A155C30E0BA26F"
 				type: "biome"
 			}]
-			x: 13.0d
+			x: 13.5d
 			y: -2.0d
 		}
 		{
@@ -1180,6 +1193,7 @@
 					count: 1
 					id: "minecraft:emerald"
 				}
+				team_reward: true
 				type: "item"
 			}]
 			tasks: [{
@@ -1231,6 +1245,7 @@
 				"52C689BD45C88DC7"
 				"409233DD19253337"
 			]
+			dependency_requirement: "one_completed"
 			id: "542915B157A00342"
 			optional: true
 			rewards: [{
@@ -1255,18 +1270,32 @@
 		}
 		{
 			dependencies: ["52C689BD45C88DC7"]
+			dependency_requirement: "one_completed"
 			id: "117E7CD4E35C939E"
-			rewards: [{
-				auto: "enabled"
-				count: 5
-				id: "47419B80749277F9"
-				item: {
-					count: 1
-					id: "minecraft:cooked_beef"
+			rewards: [
+				{
+					auto: "enabled"
+					count: 5
+					id: "47419B80749277F9"
+					item: {
+						count: 1
+						id: "minecraft:cooked_beef"
+					}
+					team_reward: true
+					type: "item"
 				}
-				team_reward: true
-				type: "item"
-			}]
+				{
+					command: "/loot give @p loot dungeon_heroes:pillager_outpost_map"
+					icon: {
+						id: "minecraft:map"
+					}
+					id: "7D362F2E6DB45D39"
+					permission_level: 3
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+			]
 			tasks: [
 				{
 					id: "398F971671B0BD2D"
@@ -1298,18 +1327,32 @@
 		}
 		{
 			dependencies: ["409233DD19253337"]
+			dependency_requirement: "one_completed"
 			id: "34C7A5EEA1734602"
-			rewards: [{
-				auto: "enabled"
-				count: 5
-				id: "16F4BC5687D42470"
-				item: {
-					count: 1
-					id: "minecraft:cooked_beef"
+			rewards: [
+				{
+					auto: "enabled"
+					count: 5
+					id: "16F4BC5687D42470"
+					item: {
+						count: 1
+						id: "minecraft:cooked_beef"
+					}
+					team_reward: true
+					type: "item"
 				}
-				team_reward: true
-				type: "item"
-			}]
+				{
+					command: "/loot give @p loot dungeon_heroes:pillager_outpost_map"
+					icon: {
+						id: "minecraft:map"
+					}
+					id: "3B6853D40AB23D11"
+					permission_level: 3
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+			]
 			tasks: [
 				{
 					id: "623C51057C64DB59"
@@ -1445,6 +1488,7 @@
 					type: "item"
 				}
 				{
+					auto: "enabled"
 					count: 10
 					id: "0281D65FCB6330F1"
 					item: {
@@ -1571,6 +1615,7 @@
 				"778E38574711C83D"
 				"040933298DC4F2ED"
 			]
+			dependency_requirement: "one_completed"
 			id: "56C4C97F0F7DC1F0"
 			optional: true
 			rewards: [{
@@ -1595,18 +1640,32 @@
 		}
 		{
 			dependencies: ["040933298DC4F2ED"]
+			dependency_requirement: "one_completed"
 			id: "0698E52F20D919C8"
-			rewards: [{
-				auto: "enabled"
-				count: 5
-				id: "11104A32939B9BD5"
-				item: {
-					count: 1
-					id: "minecraft:cooked_beef"
+			rewards: [
+				{
+					auto: "enabled"
+					count: 5
+					id: "11104A32939B9BD5"
+					item: {
+						count: 1
+						id: "minecraft:cooked_beef"
+					}
+					team_reward: true
+					type: "item"
 				}
-				team_reward: true
-				type: "item"
-			}]
+				{
+					command: "/loot give @p loot dungeon_heroes:pillager_outpost_map"
+					icon: {
+						id: "minecraft:map"
+					}
+					id: "1CB4AC8FFFB80DB6"
+					permission_level: 3
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+			]
 			tasks: [
 				{
 					id: "0AC449522D877F0C"
@@ -1638,18 +1697,32 @@
 		}
 		{
 			dependencies: ["778E38574711C83D"]
+			dependency_requirement: "one_completed"
 			id: "68DED933D53F4FEC"
-			rewards: [{
-				auto: "enabled"
-				count: 5
-				id: "367260EA970551BE"
-				item: {
-					count: 1
-					id: "minecraft:cooked_beef"
+			rewards: [
+				{
+					auto: "enabled"
+					count: 5
+					id: "367260EA970551BE"
+					item: {
+						count: 1
+						id: "minecraft:cooked_beef"
+					}
+					team_reward: true
+					type: "item"
 				}
-				team_reward: true
-				type: "item"
-			}]
+				{
+					command: "/loot give @p loot dungeon_heroes:pillager_outpost_map"
+					icon: {
+						id: "minecraft:map"
+					}
+					id: "245EE9A632EADF80"
+					permission_level: 3
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+			]
 			tasks: [
 				{
 					id: "393C61A286957191"
@@ -1762,17 +1835,30 @@
 		{
 			dependencies: ["47E6EBD338050DD1"]
 			id: "359FB12EAC5A5950"
-			rewards: [{
-				auto: "enabled"
-				count: 5
-				id: "7A83D9A22157BCB3"
-				item: {
-					count: 1
-					id: "minecraft:cooked_beef"
+			rewards: [
+				{
+					auto: "enabled"
+					count: 5
+					id: "7A83D9A22157BCB3"
+					item: {
+						count: 1
+						id: "minecraft:cooked_beef"
+					}
+					team_reward: true
+					type: "item"
 				}
-				team_reward: true
-				type: "item"
-			}]
+				{
+					command: "/loot give @p loot dungeon_heroes:pillager_outpost_map"
+					icon: {
+						id: "minecraft:map"
+					}
+					id: "5A752D4C7C14F10C"
+					permission_level: 3
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+			]
 			tasks: [
 				{
 					id: "52FE0B8661621011"
@@ -1877,15 +1963,26 @@
 				}
 				type: "item"
 			}]
-			tasks: [{
-				entity: "minecraft:pillager"
-				icon: {
-					id: "minecraft:crossbow"
+			tasks: [
+				{
+					entity: "minecraft:pillager"
+					icon: {
+						id: "minecraft:crossbow"
+					}
+					id: "4312658F1AF99593"
+					type: "kill"
+					value: 3L
 				}
-				id: "4312658F1AF99593"
-				type: "kill"
-				value: 5L
-			}]
+				{
+					entity: "minecraft:vindicator"
+					icon: {
+						id: "minecraft:iron_axe"
+					}
+					id: "65A34604889A51ED"
+					type: "kill"
+					value: 1L
+				}
+			]
 			x: -10.0d
 			y: 4.0d
 		}
@@ -1900,19 +1997,26 @@
 				structure: "nova_structures:piglin_donjon"
 				type: "structure"
 			}]
-			x: 27.0d
+			x: 27.5d
 			y: 4.5d
 		}
 		{
 			dependencies: ["65C79F5EC52B624E"]
 			id: "5E71BB4F2BB8D741"
-			tasks: [{
-				count: 10L
-				id: "14E74EFB9A0D6091"
-				item: { count: 10, id: "minecraft:glowstone" }
-				type: "item"
-			}]
-			x: 35.0d
+			tasks: [
+				{
+					count: 10L
+					id: "14E74EFB9A0D6091"
+					item: { count: 10, id: "minecraft:glowstone" }
+					type: "item"
+				}
+				{
+					id: "193F9307B6B81822"
+					item: { count: 1, id: "minecraft:water_bucket" }
+					type: "item"
+				}
+			]
+			x: 35.5d
 			y: -2.0d
 		}
 		{
@@ -1923,7 +2027,7 @@
 				item: { count: 1, id: "quest_items:cursed_crown" }
 				type: "item"
 			}]
-			x: 29.0d
+			x: 29.5d
 			y: 4.5d
 		}
 		{
@@ -1937,7 +2041,7 @@
 				structure: "minecraft:ancient_city"
 				type: "structure"
 			}]
-			x: 40.0d
+			x: 40.5d
 			y: 11.0d
 		}
 		{
@@ -1948,7 +2052,7 @@
 				item: { count: 1, id: "quest_items:warden_ears" }
 				type: "item"
 			}]
-			x: 42.0d
+			x: 42.5d
 			y: 11.0d
 		}
 		{
@@ -2058,7 +2162,7 @@
 				id: "7E477AD537049791"
 				type: "checkmark"
 			}]
-			x: -0.5d
+			x: 0.0d
 			y: 4.5d
 		}
 		{
@@ -2072,7 +2176,7 @@
 				structure: "formidulus:deer_cult_hideout"
 				type: "structure"
 			}]
-			x: 40.0d
+			x: 40.5d
 			y: 6.5d
 		}
 		{
@@ -2083,7 +2187,7 @@
 				item: { count: 1, id: "quest_items:unholy_candle" }
 				type: "item"
 			}]
-			x: 42.0d
+			x: 42.5d
 			y: 2.5d
 		}
 		{
@@ -2094,7 +2198,7 @@
 				item: { count: 1, id: "quest_items:red_urn" }
 				type: "item"
 			}]
-			x: 42.0d
+			x: 42.5d
 			y: 4.5d
 		}
 		{
@@ -2105,7 +2209,7 @@
 				item: { count: 1, id: "formidulus:deer_skull" }
 				type: "item"
 			}]
-			x: 42.0d
+			x: 42.5d
 			y: 6.5d
 		}
 		{
@@ -2116,7 +2220,7 @@
 				item: { count: 1, id: "quest_items:deep_see_crystal" }
 				type: "item"
 			}]
-			x: 29.0d
+			x: 29.5d
 			y: 11.0d
 		}
 		{
@@ -2127,7 +2231,7 @@
 				item: { count: 1, id: "quest_items:magnificent_clam_shell" }
 				type: "item"
 			}]
-			x: 29.0d
+			x: 29.5d
 			y: 13.0d
 		}
 		{
@@ -2138,7 +2242,7 @@
 				item: { count: 1, id: "quest_items:evil_codex" }
 				type: "item"
 			}]
-			x: 17.0d
+			x: 17.5d
 			y: 6.5d
 		}
 		{
@@ -2152,7 +2256,7 @@
 				structure: "#dungeon_heroes:large_pirate_ship"
 				type: "structure"
 			}]
-			x: 27.0d
+			x: 27.5d
 			y: 9.0d
 		}
 		{
@@ -2163,7 +2267,7 @@
 				item: { count: 1, id: "quest_items:black_pearl" }
 				type: "item"
 			}]
-			x: 29.0d
+			x: 29.5d
 			y: 9.0d
 		}
 		{
@@ -2177,7 +2281,7 @@
 				id: "4C94A7D81FFFDDAE"
 				type: "biome"
 			}]
-			x: 25.0d
+			x: 25.5d
 			y: 11.0d
 		}
 		{
@@ -2203,7 +2307,7 @@
 				id: "478CDB067D91390D"
 				type: "checkmark"
 			}]
-			x: 21.5d
+			x: 22.0d
 			y: 4.5d
 		}
 		{
@@ -2218,7 +2322,7 @@
 				id: "27AD94145937DEE0"
 				type: "biome"
 			}]
-			x: 13.0d
+			x: 13.5d
 			y: 11.0d
 		}
 		{
@@ -2229,7 +2333,7 @@
 				id: "686D16D117D64BAA"
 				type: "dimension"
 			}]
-			x: 35.0d
+			x: 35.5d
 			y: 4.5d
 		}
 		{
@@ -2258,7 +2362,7 @@
 				id: "0734132060401715"
 				type: "checkmark"
 			}]
-			x: 33.0d
+			x: 33.5d
 			y: 1.0d
 		}
 		{
@@ -2276,7 +2380,7 @@
 				structure: "minecraft:stronghold"
 				type: "structure"
 			}]
-			x: 46.5d
+			x: 47.0d
 			y: 4.5d
 		}
 		{
@@ -2290,7 +2394,7 @@
 				id: "160A196DFE5A2610"
 				type: "dimension"
 			}]
-			x: 48.5d
+			x: 49.0d
 			y: 4.5d
 		}
 		{
@@ -2301,7 +2405,7 @@
 				item: { count: 1, id: "quest_items:sack_of_magic_dust" }
 				type: "item"
 			}]
-			x: 17.0d
+			x: 17.5d
 			y: 13.0d
 		}
 		{
@@ -2313,7 +2417,7 @@
 				id: "1F84CD0ECBDDD211"
 				type: "advancement"
 			}]
-			x: 50.5d
+			x: 51.0d
 			y: 4.5d
 		}
 		{
@@ -2325,7 +2429,7 @@
 				id: "57CFAFF7FE5803B5"
 				type: "advancement"
 			}]
-			x: 52.5d
+			x: 53.0d
 			y: 4.5d
 		}
 		{
@@ -2337,7 +2441,7 @@
 				id: "3755C7E76867AE46"
 				type: "advancement"
 			}]
-			x: 56.5d
+			x: 57.0d
 			y: 3.0d
 		}
 		{
@@ -2359,7 +2463,7 @@
 				id: "1680A4932651A97C"
 				type: "checkmark"
 			}]
-			x: 35.0d
+			x: 35.5d
 			y: 7.5d
 		}
 		{
@@ -2373,7 +2477,7 @@
 				structure: "dungeons_arise:thornborn_towers"
 				type: "structure"
 			}]
-			x: 15.0d
+			x: 15.5d
 			y: 13.0d
 		}
 		{
@@ -2387,7 +2491,7 @@
 				structure: "betterdeserttemples:desert_temple"
 				type: "structure"
 			}]
-			x: 4.0d
+			x: 4.5d
 			y: -2.0d
 		}
 		{
@@ -2398,7 +2502,7 @@
 				item: { count: 1, id: "quest_items:pharaohs_mask" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 6.5d
 			y: -2.0d
 		}
 		{
@@ -2412,7 +2516,7 @@
 				structure: "nova_structures:desert_ruins"
 				type: "structure"
 			}]
-			x: 4.0d
+			x: 4.5d
 			y: 0.0d
 		}
 		{
@@ -2423,7 +2527,7 @@
 				item: { count: 1, id: "quest_items:ancient_king_scepter" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 6.5d
 			y: 0.0d
 		}
 		{
@@ -2447,7 +2551,7 @@
 				item: { count: 1, id: "endrem:old_eye" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 8.5d
 			y: -2.0d
 		}
 		{
@@ -2461,7 +2565,7 @@
 				structure: "nova_structures:jungle_ruins"
 				type: "structure"
 			}]
-			x: 4.0d
+			x: 4.5d
 			y: 6.5d
 		}
 		{
@@ -2475,7 +2579,7 @@
 				structure: "betterjungletemples:jungle_temple"
 				type: "structure"
 			}]
-			x: 4.0d
+			x: 4.5d
 			y: 4.5d
 		}
 		{
@@ -2486,7 +2590,7 @@
 				item: { count: 1, id: "quest_items:stone_idol" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 6.5d
 			y: 4.5d
 		}
 		{
@@ -2497,7 +2601,7 @@
 				item: { count: 1, id: "quest_items:mossy_tablet" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 6.5d
 			y: 6.5d
 		}
 		{
@@ -2521,7 +2625,7 @@
 				item: { count: 1, id: "endrem:rogue_eye" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 8.5d
 			y: 4.5d
 		}
 		{
@@ -2536,7 +2640,7 @@
 				id: "0DE9CEDF062E8248"
 				type: "biome"
 			}]
-			x: 2.0d
+			x: 2.5d
 			y: 4.5d
 		}
 		{
@@ -2560,7 +2664,7 @@
 				item: { count: 1, id: "endrem:undead_eye" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 8.5d
 			y: 11.0d
 		}
 		{
@@ -2574,7 +2678,7 @@
 				structure: "nova_structures:creeping_crypt"
 				type: "structure"
 			}]
-			x: 4.0d
+			x: 4.5d
 			y: 11.0d
 		}
 		{
@@ -2588,7 +2692,7 @@
 				structure: "terralith:desert_outpost"
 				type: "structure"
 			}]
-			x: 4.0d
+			x: 4.5d
 			y: -4.0d
 		}
 		{
@@ -2599,7 +2703,7 @@
 				item: { count: 1, id: "quest_items:desert_rose" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 6.5d
 			y: -4.0d
 		}
 		{
@@ -2618,7 +2722,7 @@
 				optional_task: true
 				type: "biome"
 			}]
-			x: 2.0d
+			x: 2.5d
 			y: -2.0d
 		}
 		{
@@ -2632,7 +2736,7 @@
 				structure: "dungeons_arise:jungle_tree_house"
 				type: "structure"
 			}]
-			x: 4.0d
+			x: 4.5d
 			y: 2.5d
 		}
 		{
@@ -2643,7 +2747,7 @@
 				item: { count: 1, id: "quest_items:tribal_totem" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 6.5d
 			y: 2.5d
 		}
 		{
@@ -2654,7 +2758,7 @@
 				item: { count: 1, id: "quest_items:undead_essence" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 6.5d
 			y: 11.0d
 		}
 		{
@@ -2666,7 +2770,7 @@
 				id: "642BFADE9362075C"
 				type: "biome"
 			}]
-			x: 2.0d
+			x: 2.5d
 			y: 11.0d
 		}
 		{
@@ -2680,7 +2784,7 @@
 				structure: "dungeons_arise:abandoned_temple"
 				type: "structure"
 			}]
-			x: 4.0d
+			x: 4.5d
 			y: 9.0d
 		}
 		{
@@ -2691,7 +2795,7 @@
 				item: { count: 1, id: "quest_items:skeletal_hand" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 6.5d
 			y: 9.0d
 		}
 		{
@@ -2705,7 +2809,7 @@
 				structure: "nova_structures:undead_crypt"
 				type: "structure"
 			}]
-			x: 4.0d
+			x: 4.5d
 			y: 13.0d
 		}
 		{
@@ -2716,7 +2820,7 @@
 				item: { count: 1, id: "quest_items:rotten_heart" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 6.5d
 			y: 13.0d
 		}
 		{
@@ -2810,7 +2914,7 @@
 				id: "27AFB92006519EEF"
 				type: "checkmark"
 			}]
-			x: 10.5d
+			x: 11.0d
 			y: 4.5d
 		}
 		{
@@ -2835,8 +2939,9 @@
 				}
 				{
 					auto: "no_toast"
-					command: "/ftbteams party invite @a"
+					command: "/ftbteams party invite @a[distance=..100]"
 					id: "0095BC9D75E98593"
+					permission_level: 3
 					team_reward: true
 					type: "command"
 				}
@@ -2859,7 +2964,7 @@
 				structure: "bosses_of_mass_destruction:obsidilith_arena"
 				type: "structure"
 			}]
-			x: 54.5d
+			x: 55.0d
 			y: 3.0d
 		}
 		{
@@ -2873,7 +2978,7 @@
 				structure: "nova_structures:end_castle"
 				type: "structure"
 			}]
-			x: 56.5d
+			x: 57.0d
 			y: 4.5d
 		}
 		{
@@ -2887,7 +2992,7 @@
 				structure: "nova_structures:end_lighthouse"
 				type: "structure"
 			}]
-			x: 54.5d
+			x: 55.0d
 			y: 4.5d
 		}
 		{
@@ -2899,7 +3004,7 @@
 				id: "67FA2FE2B6572723"
 				type: "advancement"
 			}]
-			x: 54.5d
+			x: 55.0d
 			y: 6.0d
 		}
 		{
@@ -2911,7 +3016,7 @@
 				item: { count: 6, id: "betterend:eternal_crystal" }
 				type: "item"
 			}]
-			x: 56.5d
+			x: 57.0d
 			y: 6.0d
 		}
 		{
@@ -2926,8 +3031,40 @@
 				id: "555D81AB56A5085C"
 				type: "advancement"
 			}]
-			x: 58.5d
+			x: 59.0d
 			y: 6.0d
+		}
+		{
+			dependencies: [
+				"5ADD18BB249BB11D"
+				"2E0280D214CED77B"
+				"3D6C22C586A4A51A"
+				"03E2355B715EDEEE"
+				"751AA59EEFD4405D"
+			]
+			dependency_requirement: "one_completed"
+			id: "03C40E406B9D739B"
+			optional: true
+			tasks: [{
+				id: "7683D8F6C6BCC1F2"
+				item: { count: 1, id: "runes:small_rune_pouch" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["28078415D9894C3C"]
+			dependency_requirement: "one_completed"
+			id: "38457E5BC8B4C6A1"
+			optional: true
+			tasks: [{
+				id: "71D55F5326CDA383"
+				item: { count: 1, id: "archers:small_quiver" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 6.5d
 		}
 	]
 }

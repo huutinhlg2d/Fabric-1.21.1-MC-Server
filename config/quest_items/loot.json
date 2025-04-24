@@ -36,7 +36,7 @@
         }
       ]
     },
-    "betterjungletemples:chests/treasure_room": {
+    "betterjungletemples:chests/treasure": {
       "rolls": 1.0,
       "items": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     "nova_structures:chests/undead_crypts_grave": {
-      "rolls": 0.5,
+      "rolls": 0.2,
       "items": [
         {
           "itemId": "quest_items:rotten_heart",
@@ -216,20 +216,20 @@
         }
       ]
     },
+    "betteroceanmonuments:chests/upper_side_chamber": {
+      "rolls": 1.0,
+      "items": [
+        {
+          "itemId": "quest_items:magnificent_clam_shell",
+          "weight": 1
+        }
+      ]
+    },
     "nova_structures:chests/trident_trial_monument/ttm_boss_vault_trident": {
       "rolls": 1.0,
       "items": [
         {
           "itemId": "quest_items:deep_see_crystal",
-          "weight": 1
-        }
-      ]
-    },
-    "betteroceanmonuments:chests/upper_side_chamber": {
-      "rolls": 1.0,
-      "items": [
-        {
-          "itemId": "betteroceanmonuments:chests/upper_side_chamber",
           "weight": 1
         }
       ]

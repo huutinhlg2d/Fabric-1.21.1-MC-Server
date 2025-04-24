@@ -22,6 +22,7 @@
     "!aether:.*_gloves",
     "aether:invisibility_cloak",
     "!eternal_starlight:.*bow",
+    "!eternal_starlight:.*arrow",
     "eternal_starlight:starfall_longbow",
     "eternal_starlight:wand_of_teleportation",
     "illagerinvasion:platinum_chunk",

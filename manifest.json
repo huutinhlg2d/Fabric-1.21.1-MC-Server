@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Dungeon Heroes",
-  "version": "2.0.7",
+  "version": "2.0.13",
   "author": "",
   "files": [
     {
@@ -31,7 +31,7 @@
     },
     {
       "projectID": 807653,
-      "fileID": 6403197,
+      "fileID": 6441517,
       "required": true
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "projectID": 734325,
-      "fileID": 6407972,
+      "fileID": 6441447,
       "required": true
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "projectID": 981139,
-      "fileID": 6327884,
+      "fileID": 6436039,
       "required": true
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "projectID": 342584,
-      "fileID": 6367086,
+      "fileID": 6429221,
       "required": true
     },
     {
@@ -241,12 +241,12 @@
     },
     {
       "projectID": 856548,
-      "fileID": 6404085,
+      "fileID": 6441446,
       "required": true
     },
     {
       "projectID": 1178224,
-      "fileID": 6407749,
+      "fileID": 6429448,
       "required": true
     },
     {
@@ -271,7 +271,7 @@
     },
     {
       "projectID": 393442,
-      "fileID": 6320341,
+      "fileID": 6444594,
       "required": true
     },
     {
@@ -281,7 +281,7 @@
     },
     {
       "projectID": 910706,
-      "fileID": 6355810,
+      "fileID": 6448339,
       "required": true
     },
     {
@@ -306,7 +306,7 @@
     },
     {
       "projectID": 348831,
-      "fileID": 6206247,
+      "fileID": 6433983,
       "required": true
     },
     {
@@ -317,11 +317,6 @@
     {
       "projectID": 936713,
       "fileID": 5733128,
-      "required": true
-    },
-    {
-      "projectID": 1082929,
-      "fileID": 5623227,
       "required": true
     },
     {
@@ -336,7 +331,7 @@
     },
     {
       "projectID": 1048409,
-      "fileID": 6404107,
+      "fileID": 6441445,
       "required": true
     },
     {
@@ -386,17 +381,12 @@
     },
     {
       "projectID": 932359,
-      "fileID": 6404139,
+      "fileID": 6441449,
       "required": true
     },
     {
       "projectID": 976817,
       "fileID": 5498961,
-      "required": true
-    },
-    {
-      "projectID": 912469,
-      "fileID": 6090537,
       "required": true
     },
     {
@@ -441,12 +431,12 @@
     },
     {
       "projectID": 1112793,
-      "fileID": 6067998,
+      "fileID": 6443577,
       "required": true
     },
     {
       "projectID": 306612,
-      "fileID": 6360522,
+      "fileID": 6443778,
       "required": true
     },
     {
@@ -521,7 +511,7 @@
     },
     {
       "projectID": 711216,
-      "fileID": 6385098,
+      "fileID": 6445402,
       "required": true
     },
     {
@@ -542,6 +532,11 @@
     {
       "projectID": 920418,
       "fileID": 5486582,
+      "required": true
+    },
+    {
+      "projectID": 549225,
+      "fileID": 5911983,
       "required": true
     },
     {
@@ -601,7 +596,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 6391017,
+      "fileID": 6442957,
       "required": true
     },
     {
@@ -637,6 +632,11 @@
     {
       "projectID": 324717,
       "fileID": 6291536,
+      "required": true
+    },
+    {
+      "projectID": 514882,
+      "fileID": 5905997,
       "required": true
     },
     {
@@ -676,7 +676,7 @@
     },
     {
       "projectID": 347381,
-      "fileID": 6184896,
+      "fileID": 6429245,
       "required": true
     },
     {
@@ -871,7 +871,7 @@
     },
     {
       "projectID": 438496,
-      "fileID": 6371006,
+      "fileID": 6429143,
       "required": true
     },
     {
@@ -886,7 +886,7 @@
     },
     {
       "projectID": 532610,
-      "fileID": 6297839,
+      "fileID": 6446006,
       "required": true
     },
     {
@@ -901,7 +901,7 @@
     },
     {
       "projectID": 228525,
-      "fileID": 6423451,
+      "fileID": 6438569,
       "required": true
     },
     {
@@ -917,6 +917,11 @@
     {
       "projectID": 518319,
       "fileID": 5286193,
+      "required": true
+    },
+    {
+      "projectID": 363703,
+      "fileID": 6427511,
       "required": true
     },
     {

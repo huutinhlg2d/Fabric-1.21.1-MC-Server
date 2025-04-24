@@ -292,6 +292,17 @@
         },
         {
           "zone_matches": {
+            "structure": "~eternal_starlight"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 6,
+            "entity_level": 0,
+            "reward_level": 0
+          }
+        },
+        {
+          "zone_matches": {
             "structure": "~betterdeserttemples|betteroceanmonuments|betterstrongholds|betterjungletemples"
           },
           "difficulty": {
