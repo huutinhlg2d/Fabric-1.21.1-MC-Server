@@ -17,17 +17,22 @@
 	decoupled_camera = false
 	#Whether or not to orient the camera rotation when the player is teleported. This includes passenger (dis-)mounting and traveling through portals.
 	orient_camera_on_teleport = true
+	#Whether or not to apply the FOV override when in shoulder surfing perspective.
+	fov_override_enabled = false
+	#The camera FOV when in shoulder surfing perspective. Depends on config option 'fov_override_enabled'.
+	#Range: 30.0 ~ 110.0
+	fov_override = 70.0
 
 	[camera.offset]
 		#Third person camera x-offset.
 		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-		offset_x = -1.2999999999999992
+		offset_x = -1.0250000000000001
 		#Third person camera y-offset.
 		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-		offset_y = -0.025
+		offset_y = -0.1
 		#Third person camera z-offset.
 		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-		offset_z = 4.050000000000001
+		offset_z = 4.499999999999993
 
 		[camera.offset.min]
 			#When x-offset is limited this is the minimum amount.
@@ -180,7 +185,7 @@
 	#Whether or not the first person perspective is enabled.
 	first_person_enabled = true
 	#Whether or not the third person front perspective is enabled.
-	third_person_front_enabled = true
+	third_person_front_enabled = false
 	#Whether or not the third person back perspective is enabled.
 	third_person_back_enabled = false
 
@@ -238,7 +243,7 @@
 [crosshair]
 	#Crosshair type to use for shoulder surfing.
 	#Allowed Values: ADAPTIVE, DYNAMIC, STATIC, STATIC_WITH_1PP, DYNAMIC_WITH_1PP
-	crosshair_type = "STATIC"
+	crosshair_type = "ADAPTIVE"
 	#Items that when held, trigger the dynamic crosshair in adaptive mode. This config option supports regular expressions. Example: 'minecraft:.*sword' matches 'minecraft:wooden_sword' and 'minecraft:netherite_sword'.
 	adaptive_crosshair_hold_items = ["minecraft:snowball", "minecraft:egg", "minecraft:experience_bottle", "minecraft:ender_pearl", "minecraft:splash_potion", "minecraft:fishing_rod", "minecraft:lingering_potion"]
 	#Items that when used, trigger the dynamic crosshair in adaptive mode. This config option supports regular expressions. Example: 'minecraft:.*sword' matches 'minecraft:wooden_sword' and 'minecraft:netherite_sword'.

@@ -2,12 +2,12 @@
   "meta": {
     "sanitize_config": true,
     "rounding_unit": 0.5,
-    "merge_item_modifiers": true
+    "merge_item_modifiers": false
   },
   "announcement": {
     "enabled": true,
     "check_interval_seconds": 5,
-    "history_duration_seconds": 180
+    "history_size": 2
   },
   "per_player_difficulty": {
     "enabled": true,
@@ -143,6 +143,7 @@
       "world_matches": {
         "dimension_regex": "minecraft:overworld"
       },
+      "high_priority_entities": [],
       "zones": [
         {
           "zone_matches": {
@@ -347,6 +348,7 @@
         "name": "adventure",
         "level": 3
       },
+      "high_priority_entities": [],
       "zones": [
         {
           "zone_matches": {
@@ -422,6 +424,7 @@
         "name": "adventure",
         "level": 5
       },
+      "high_priority_entities": [],
       "zones": [
         {
           "zone_matches": {
@@ -487,6 +490,7 @@
         "name": "adventure",
         "level": 4
       },
+      "high_priority_entities": [],
       "zones": [
         {
           "zone_matches": {
@@ -526,6 +530,7 @@
         "name": "adventure",
         "level": 6
       },
+      "high_priority_entities": [],
       "zones": [
         {
           "zone_matches": {

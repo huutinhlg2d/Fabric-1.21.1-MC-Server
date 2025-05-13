@@ -21,6 +21,7 @@
   "skipMarkerArmorStands": true,
   "tickCulling": true,
   "tickCullingWhitelist": [
+    "minecraft:player",
     "create:contraption",
     "create:stationary_contraption",
     "create:gantry_contraption",

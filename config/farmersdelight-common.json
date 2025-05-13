@@ -39,7 +39,7 @@
   },
   "world": {
     "generateFDChestLoot": true,
-    "genVillageCompostHeaps": true,
+    "genVillageCompostHeaps": false,
     "genFDCropsOnVillageFarms": true,
     "wild_cabbages": {
       "chance": 30

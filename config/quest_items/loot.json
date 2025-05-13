@@ -118,7 +118,7 @@
       ]
     },
     "takesapillage:chests/bastille/church": {
-      "rolls": 0.5,
+      "rolls": 1.0,
       "items": [
         {
           "itemId": "quest_items:evil_codex",

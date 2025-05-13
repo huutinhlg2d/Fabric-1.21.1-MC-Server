@@ -15,6 +15,8 @@
 	dynamically_adjust_offsets = true
 	#Whether or not to decouple the camera rotation from the player rotation.
 	decoupled_camera = false
+	#Whether or not to orient the camera rotation when the player is teleported. This includes passenger (dis-)mounting and traveling through portals.
+	orient_camera_on_teleport = true
 
 	[camera.offset]
 		#Third person camera x-offset.
@@ -178,7 +180,7 @@
 	#Whether or not the first person perspective is enabled.
 	first_person_enabled = true
 	#Whether or not the third person front perspective is enabled.
-	third_person_front_enabled = false
+	third_person_front_enabled = true
 	#Whether or not the third person back perspective is enabled.
 	third_person_back_enabled = false
 

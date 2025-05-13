@@ -26,13 +26,13 @@
 	[camera.offset]
 		#Third person camera x-offset.
 		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-		offset_x = -1.2249999999999994
+		offset_x = -1.0250000000000001
 		#Third person camera y-offset.
 		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 		offset_y = -0.1
 		#Third person camera z-offset.
 		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-		offset_z = 4.499999999999993
+		offset_z = 4.4749999999999925
 
 		[camera.offset.min]
 			#When x-offset is limited this is the minimum amount.
@@ -282,3 +282,7 @@
 [audio]
 	#Whether to center sounds made by the player.
 	center_player_sounds = false
+
+	[integrations.epicfight]
+		#Whether to allow target lock-on when camera is decoupled.
+		decoupled_camera_lock_on = false

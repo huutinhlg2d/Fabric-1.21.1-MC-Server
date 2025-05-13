@@ -1,1 +1,10 @@
-{"version":1,"overrides":{"fabricloader":{"+depends":{"fabricloader":">=0.16.7"}},"minecraft":{"+recommends":{}},"polytone":{"conflicts":{}}}}
+{
+    "version": 1,
+    "overrides": {
+        "sodium": {
+            "-breaks": {
+                "betterend": "IGNORED"
+            }
+        }
+    }
+}

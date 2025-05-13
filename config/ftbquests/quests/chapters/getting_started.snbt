@@ -103,13 +103,10 @@
 			]
 			id: "25896E6474DD7B81"
 			rewards: [{
-				id: "671B736EA57C2B2C"
-				item: {
-					count: 1
-					id: "fwaystones:red_nether_brick_waystone"
-				}
-				team_reward: true
-				type: "item"
+				exclude_from_claim_all: true
+				id: "124D4764CB9155E8"
+				table_id: 6912453294490485104L
+				type: "loot"
 			}]
 			tasks: [{
 				id: "39A5CE634068B2AD"
@@ -122,6 +119,12 @@
 		{
 			dependencies: ["6F79FD4D5A4EAD7A"]
 			id: "6E7CFBCE72C4DADC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3F88EE9B6B0D2B8A"
+				table_id: 7696263894723095356L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "17FD2D5DF9281B8B"
 				item: { count: 1, id: "bosses_of_mass_destruction:blazing_eye" }
@@ -133,6 +136,12 @@
 		{
 			dependencies: ["11DE93EDD7C6605B"]
 			id: "5110617FC3957C45"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C8C525353C943E2"
+				table_id: 6346837476509199863L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "21F999336A60F223"
 				item: { count: 1, id: "quest_items:wither_ribcage" }
@@ -144,6 +153,15 @@
 		{
 			dependencies: ["1E9DCEC0F2B779B6"]
 			id: "09CDD19AEB0B049D"
+			rewards: [{
+				count: 5
+				id: "404F442206F4A329"
+				item: {
+					count: 1
+					id: "minecraft:netherite_ingot"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "37CC6F15E9E1A77D"
 				item: { count: 1, id: "quest_items:wildfire_essence" }
@@ -172,13 +190,10 @@
 			]
 			id: "3C02A7395E3C852E"
 			rewards: [{
-				id: "108405F9AFEAC43F"
-				item: {
-					count: 1
-					id: "fwaystones:waystone"
-				}
-				team_reward: true
-				type: "item"
+				exclude_from_claim_all: true
+				id: "77E466EEBBD2712B"
+				table_id: 6912453294490485104L
+				type: "loot"
 			}]
 			tasks: [{
 				id: "72C0FE82336A69AB"
@@ -239,6 +254,14 @@
 		{
 			dependencies: ["53D14A4B822E372C"]
 			id: "180DD1DDAD19E3CA"
+			rewards: [{
+				id: "5744CD60A44EB4E1"
+				item: {
+					count: 1
+					id: "minecraft:totem_of_undying"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "56F45B5097886689"
 				item: { count: 1, id: "bosses_of_mass_destruction:ancient_anima" }
@@ -290,6 +313,12 @@
 		{
 			dependencies: ["00D62B5402D055EB"]
 			id: "60335100FA2C052C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E9AAC9651B87266"
+				table_id: 5537659861064587218L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "2224CB727FB3BB47"
 				item: { count: 1, id: "quest_items:frozen_grail" }
@@ -315,6 +344,14 @@
 		{
 			dependencies: ["752C2E680C9BB4C5"]
 			id: "57FBA9C93B83718B"
+			rewards: [{
+				id: "479207CC8C8904ED"
+				item: {
+					count: 1
+					id: "minecraft:totem_of_undying"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "58322742F3D6714C"
 				item: { count: 1, id: "quest_items:corruption_orb" }
@@ -331,13 +368,10 @@
 			]
 			id: "51621B2533093AAA"
 			rewards: [{
-				id: "0AEECD04B1F94EA6"
-				item: {
-					count: 1
-					id: "fwaystones:deepslate_brick_waystone"
-				}
-				team_reward: true
-				type: "item"
+				exclude_from_claim_all: true
+				id: "5C58EAF3D340E138"
+				table_id: 6912453294490485104L
+				type: "loot"
 			}]
 			tasks: [{
 				id: "182ED86CF9C685E0"
@@ -364,6 +398,12 @@
 		{
 			dependencies: ["2DE5E46435161D5B"]
 			id: "22F5C5735FF5DC1C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2375C53C4B1F0340"
+				table_id: 5145313046792464773L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "4DB42DDBEF311E74"
 				item: { count: 1, id: "quest_items:shackles" }
@@ -379,6 +419,12 @@
 				"79900BAB53E30405"
 			]
 			id: "2EC81DC475A9C2BB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3CEF721B16B55F4D"
+				table_id: 6912453294490485104L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "621C64FDE783A432"
 				item: { count: 1, id: "endrem:evil_eye" }
@@ -446,6 +492,12 @@
 		{
 			dependencies: ["1BFA17A37065F8AB"]
 			id: "78B08F6D95F98FB3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "48EDCBD444038FAD"
+				table_id: 4178542467879322356L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "380AC84EA435CE4A"
 				item: { count: 1, id: "quest_items:aether_essence" }
@@ -457,6 +509,12 @@
 		{
 			dependencies: ["57E75148FBB94DA4"]
 			id: "6E7A874270985DE3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "651D3A748E7C8B07"
+				table_id: 4978848613746491018L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "78ECE3384A115515"
 				item: { count: 1, id: "quest_items:silver_feather" }
@@ -468,6 +526,14 @@
 		{
 			dependencies: ["1D011A1A13CB5F6D"]
 			id: "79900BAB53E30405"
+			rewards: [{
+				id: "261475704215FF45"
+				item: {
+					count: 1
+					id: "minecraft:totem_of_undying"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "28CE340D9D72F3AA"
 				item: { count: 1, id: "quest_items:golden_lantern" }
@@ -493,6 +559,12 @@
 		{
 			dependencies: ["5CB9C0D428EBF0DE"]
 			id: "185DF5CB83A3C500"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2A1FD10D7AC67A29"
+				table_id: 1346655320173964990L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "1A3FACD7218B05E0"
 				item: { count: 1, id: "quest_items:toxic_vial" }
@@ -509,13 +581,10 @@
 			]
 			id: "4951F213A7CF7878"
 			rewards: [{
-				id: "3759173E4D2BC97F"
-				item: {
-					count: 1
-					id: "fwaystones:blackstone_brick_waystone"
-				}
-				team_reward: true
-				type: "item"
+				exclude_from_claim_all: true
+				id: "5C55B253753C2AE1"
+				table_id: 6912453294490485104L
+				type: "loot"
 			}]
 			tasks: [{
 				id: "1ACCADC91A07974F"
@@ -542,6 +611,14 @@
 		{
 			dependencies: ["41F2C5424A8B540C"]
 			id: "6CD59386AC1CC7D9"
+			rewards: [{
+				id: "787FE60E9A6254A8"
+				item: {
+					count: 1
+					id: "minecraft:totem_of_undying"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7E3B19C29FA2924A"
 				item: { count: 1, id: "bosses_of_mass_destruction:void_thorn" }
@@ -558,13 +635,10 @@
 			]
 			id: "41E40AAC6C725586"
 			rewards: [{
-				id: "2B83FC471A6DF434"
-				item: {
-					count: 1
-					id: "fwaystones:nether_brick_waystone"
-				}
-				team_reward: true
-				type: "item"
+				exclude_from_claim_all: true
+				id: "2B740F53116FB819"
+				table_id: 6912453294490485104L
+				type: "loot"
 			}]
 			tasks: [{
 				id: "67E17707D67CB2C7"
@@ -582,13 +656,10 @@
 			]
 			id: "0E76B43933B6E0C3"
 			rewards: [{
-				id: "21EFAFAFAD31FA42"
-				item: {
-					count: 1
-					id: "fwaystones:waystone"
-				}
-				team_reward: true
-				type: "item"
+				exclude_from_claim_all: true
+				id: "32F28369BEEF170A"
+				table_id: 6912453294490485104L
+				type: "loot"
 			}]
 			tasks: [{
 				id: "5D2480847FAC3B17"
@@ -601,6 +672,12 @@
 		{
 			dependencies: ["47DFB6349B22A9E8"]
 			id: "33C8C71159B2B7F9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "760DE9D8D5ABC902"
+				table_id: 6912453294490485104L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "241AC496F68AD503"
 				item: { count: 1, id: "endrem:black_eye" }
@@ -618,13 +695,10 @@
 			]
 			id: "2AA0D4D84DD41206"
 			rewards: [{
-				id: "0FEDD4BFA6EF48BA"
-				item: {
-					count: 1
-					id: "fwaystones:blackstone_brick_waystone"
-				}
-				team_reward: true
-				type: "item"
+				exclude_from_claim_all: true
+				id: "333FFCB77379D304"
+				table_id: 6912453294490485104L
+				type: "loot"
 			}]
 			tasks: [{
 				id: "4C55BFADBEFB61C4"
@@ -722,6 +796,14 @@
 		{
 			dependencies: ["4FC6EED4E9AAD2BD"]
 			id: "1AA5BC7E98ABFDCC"
+			rewards: [{
+				id: "327E7B511798DF6B"
+				item: {
+					count: 1
+					id: "minecraft:totem_of_undying"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "081E1E7A07709E26"
 				item: { count: 1, id: "quest_items:molten_tablet" }
@@ -733,6 +815,12 @@
 		{
 			dependencies: ["577896C69D1E717A"]
 			id: "61BA1EB67D39A6F5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3A97E5187F2213DF"
+				table_id: 1346655320173964990L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "406C9265D018D69C"
 				item: { count: 1, id: "quest_items:corrupted_grail" }
@@ -1089,6 +1177,12 @@
 		{
 			dependencies: ["36850473BDB1FD7E"]
 			id: "1C6DF52F0ECB6F16"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1A7B79159BC2244C"
+				table_id: 4178542467879322356L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "17917AD2F80126FF"
 				item: { count: 1, id: "quest_items:frozen_skull" }
@@ -1970,6 +2064,7 @@
 						id: "minecraft:crossbow"
 					}
 					id: "4312658F1AF99593"
+					optional_task: true
 					type: "kill"
 					value: 3L
 				}
@@ -1979,8 +2074,9 @@
 						id: "minecraft:iron_axe"
 					}
 					id: "65A34604889A51ED"
+					optional_task: true
 					type: "kill"
-					value: 1L
+					value: 3L
 				}
 			]
 			x: -10.0d
@@ -2022,6 +2118,12 @@
 		{
 			dependencies: ["3D089B3C5736054D"]
 			id: "63F548005B84AC27"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "15DC780C85CBB709"
+				table_id: 5258247050698735327L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "1F6D40E18723B4DC"
 				item: { count: 1, id: "quest_items:cursed_crown" }
@@ -2047,6 +2149,14 @@
 		{
 			dependencies: ["41C5F9C9DA2E720F"]
 			id: "47DFB6349B22A9E8"
+			rewards: [{
+				id: "6BC3FA6176179612"
+				item: {
+					count: 1
+					id: "minecraft:totem_of_undying"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "464A1E5B94C74432"
 				item: { count: 1, id: "quest_items:warden_ears" }
@@ -2182,6 +2292,12 @@
 		{
 			dependencies: ["50CE868DD90F8964"]
 			id: "10F63F690B9A97CB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C4E6C44C30A5F7C"
+				table_id: 5258247050698735327L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "5EB86961471EF0CC"
 				item: { count: 1, id: "quest_items:unholy_candle" }
@@ -2193,6 +2309,12 @@
 		{
 			dependencies: ["54017151545674A5"]
 			id: "59B590E36C2162A1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "583B865E51C6C6BD"
+				table_id: 4178542467879322356L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "23EFB4248D29B53E"
 				item: { count: 1, id: "quest_items:red_urn" }
@@ -2204,6 +2326,12 @@
 		{
 			dependencies: ["1F054F381BA6EBBF"]
 			id: "26C22F1B2C48C544"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3A0E30B91FAB2037"
+				table_id: 7764826548086471143L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "10D60EE520F18A26"
 				item: { count: 1, id: "formidulus:deer_skull" }
@@ -2215,6 +2343,12 @@
 		{
 			dependencies: ["24551F33FD58AC1F"]
 			id: "0366EFB2EC9BBA22"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3A37BB6791243BB6"
+				table_id: 4978848613746491018L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "2F61AE4134BECC3A"
 				item: { count: 1, id: "quest_items:deep_see_crystal" }
@@ -2226,6 +2360,12 @@
 		{
 			dependencies: ["343084B3DC67FD06"]
 			id: "34350238096FBE56"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "27016A7AD9AC51F3"
+				table_id: 5258247050698735327L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "68C639A1D3F0673C"
 				item: { count: 1, id: "quest_items:magnificent_clam_shell" }
@@ -2237,6 +2377,12 @@
 		{
 			dependencies: ["06BA90F6E8FD82ED"]
 			id: "6C7AECBE0B3FB84E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "50D70DF106A35784"
+				table_id: 8995695877312301598L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "6537C06FAD51E786"
 				item: { count: 1, id: "quest_items:evil_codex" }
@@ -2262,6 +2408,12 @@
 		{
 			dependencies: ["2ABF1FA5FFA01795"]
 			id: "6C2A57894475BFAF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "600DCAEA2032F7BB"
+				table_id: 5057474588718595904L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "100E8D6599F04228"
 				item: { count: 1, id: "quest_items:black_pearl" }
@@ -2400,6 +2552,12 @@
 		{
 			dependencies: ["671FEF38E8CD230D"]
 			id: "729E36754F07BB2B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5E6CAFC08C471840"
+				table_id: 5537659861064587218L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "759D6A8F4F0F49B7"
 				item: { count: 1, id: "quest_items:sack_of_magic_dust" }
@@ -2497,6 +2655,14 @@
 		{
 			dependencies: ["149B3BB6CDD9D63F"]
 			id: "1041422849538D5A"
+			rewards: [{
+				id: "14A7293DBB208A65"
+				item: {
+					count: 1
+					id: "minecraft:totem_of_undying"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "482C60906C5EDEA7"
 				item: { count: 1, id: "quest_items:pharaohs_mask" }
@@ -2522,6 +2688,12 @@
 		{
 			dependencies: ["394EB7DB45CAC5DB"]
 			id: "75C8C95FBA4900EB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "336B25406F338B2F"
+				table_id: 7236433276471377834L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "4D3A16CF0B910368"
 				item: { count: 1, id: "quest_items:ancient_king_scepter" }
@@ -2538,13 +2710,10 @@
 			]
 			id: "3458DDC315E4C19D"
 			rewards: [{
-				id: "2271F5AB07F05417"
-				item: {
-					count: 1
-					id: "fwaystones:desert_waystone"
-				}
-				team_reward: true
-				type: "item"
+				exclude_from_claim_all: true
+				id: "4E24EDF5C2ACA267"
+				table_id: 6912453294490485104L
+				type: "loot"
 			}]
 			tasks: [{
 				id: "6CC451DB2C9071A4"
@@ -2585,6 +2754,14 @@
 		{
 			dependencies: ["0127B3081EB723E0"]
 			id: "336D10F97BD33E83"
+			rewards: [{
+				id: "4B37648C93B69D71"
+				item: {
+					count: 1
+					id: "minecraft:totem_of_undying"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7180EF3FC3E10699"
 				item: { count: 1, id: "quest_items:stone_idol" }
@@ -2596,6 +2773,15 @@
 		{
 			dependencies: ["2579146F7DC14056"]
 			id: "2AE89CC2BBA41495"
+			rewards: [{
+				id: "5ECC2133C080BC1D"
+				item: {
+					count: 1
+					id: "minecraft:enchanting_table"
+				}
+				team_reward: true
+				type: "item"
+			}]
 			tasks: [{
 				id: "57A250D9DFBCE7D1"
 				item: { count: 1, id: "quest_items:mossy_tablet" }
@@ -2612,13 +2798,10 @@
 			]
 			id: "33F4D0E6D8C8EB05"
 			rewards: [{
-				id: "5FBEC5C38A36C1E2"
-				item: {
-					count: 1
-					id: "fwaystones:stone_brick_waystone"
-				}
-				team_reward: true
-				type: "item"
+				exclude_from_claim_all: true
+				id: "739D94048449D140"
+				table_id: 6912453294490485104L
+				type: "loot"
 			}]
 			tasks: [{
 				id: "276698C8838B58AE"
@@ -2651,13 +2834,10 @@
 			]
 			id: "0C5674077236A589"
 			rewards: [{
-				id: "2E81C3C7589B5A54"
-				item: {
-					count: 1
-					id: "fwaystones:waystone"
-				}
-				team_reward: true
-				type: "item"
+				exclude_from_claim_all: true
+				id: "32F53E7D41866DA5"
+				table_id: 6912453294490485104L
+				type: "loot"
 			}]
 			tasks: [{
 				id: "75C8B0F56CD9ED1E"
@@ -2698,6 +2878,15 @@
 		{
 			dependencies: ["2E7A3C8483AD51AB"]
 			id: "7D82C7C1977954F5"
+			rewards: [{
+				count: 3
+				id: "3D95ED037C066D02"
+				item: {
+					count: 1
+					id: "minecraft:experience_bottle"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5E0356DF0E6C5CA2"
 				item: { count: 1, id: "quest_items:desert_rose" }
@@ -2742,6 +2931,12 @@
 		{
 			dependencies: ["6D91418AC0BD86BA"]
 			id: "012957750CFDE4F3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2414596D209EB6E3"
+				table_id: 7236433276471377834L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "2F99C994A3D745DB"
 				item: { count: 1, id: "quest_items:tribal_totem" }
@@ -2753,6 +2948,14 @@
 		{
 			dependencies: ["2C86F66B9855A59B"]
 			id: "1B7F867CA61FD94D"
+			rewards: [{
+				id: "43BE3851E11B45BE"
+				item: {
+					count: 1
+					id: "minecraft:totem_of_undying"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4EEE59DBEE86EE01"
 				item: { count: 1, id: "quest_items:undead_essence" }
@@ -2790,6 +2993,12 @@
 		{
 			dependencies: ["571E13CBFE79ACE3"]
 			id: "12D4277124C156AE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7F4F227516B57B1F"
+				table_id: 8355972211868523270L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "2D1823B1C0A37B90"
 				item: { count: 1, id: "quest_items:skeletal_hand" }
@@ -2815,6 +3024,12 @@
 		{
 			dependencies: ["730599C593A96846"]
 			id: "786AF5C5E39FE1DF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "16452EEDE376BBFE"
+				table_id: 7236433276471377834L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "270067B0244394D0"
 				item: { count: 1, id: "quest_items:rotten_heart" }
@@ -2911,7 +3126,7 @@
 				}
 			]
 			tasks: [{
-				id: "27AFB92006519EEF"
+				id: "7A560D07F91F837F"
 				type: "checkmark"
 			}]
 			x: 11.0d

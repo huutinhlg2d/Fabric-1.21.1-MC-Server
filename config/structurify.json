@@ -162,6 +162,67 @@
       "blacklisted_biomes": []
     },
     {
+      "name": "eternal_starlight:portal_ruins_cold",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 50,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 50,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "eternal_starlight:portal_ruins_common",
+      "is_disabled": false,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 50,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 50,
+      "whitelisted_biomes": [
+        "minecraft:mushroom_fields"
+      ],
+      "blacklisted_biomes": [
+        "minecraft:plains",
+        "minecraft:sunflower_plains",
+        "minecraft:savanna_plateau"
+      ]
+    },
+    {
+      "name": "eternal_starlight:portal_ruins_desert",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 50,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 50,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "eternal_starlight:portal_ruins_forest",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 50,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 50,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "eternal_starlight:portal_ruins_jungle",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 50,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 50,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
       "name": "explorify:tavern",
       "is_disabled": true,
       "enable_flatness_check": false,
@@ -235,6 +296,17 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "nova_structures:bunker",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 100,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 100,
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },

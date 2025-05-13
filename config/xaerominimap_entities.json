@@ -52,8 +52,8 @@
           "protection": true,
           "settingOverrides": {
             "renderOrder": 6.0,
-            "color": 15.0,
-            "heightLimit": 2050.0
+            "heightLimit": 2050.0,
+            "color": 15.0
           },
           "subCategories": [
             {
@@ -115,10 +115,7 @@
           "name": "gui.xaero_entity_category_hostile",
           "protection": true,
           "settingOverrides": {
-            "displayed": true,
-            "renderOrder": 3.0,
-            "color": 4.0,
-            "names": 1.0
+            "renderOrder": 3.0
           },
           "subCategories": [
             {
@@ -144,9 +141,7 @@
           "excludeList": [],
           "name": "gui.xaero_entity_category_friendly",
           "protection": true,
-          "settingOverrides": {
-            "displayed": false
-          },
+          "settingOverrides": {},
           "subCategories": [
             {
               "hardInclude": "tamed",
@@ -174,7 +169,6 @@
       "name": "gui.xaero_entity_category_items",
       "protection": true,
       "settingOverrides": {
-        "displayed": false,
         "renderOrder": 1.0,
         "color": 12.0
       },
