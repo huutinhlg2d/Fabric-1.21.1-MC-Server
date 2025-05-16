@@ -52,8 +52,8 @@
           "protection": true,
           "settingOverrides": {
             "renderOrder": 6.0,
-            "heightLimit": 2050.0,
-            "color": 15.0
+            "color": 15.0,
+            "heightLimit": 2050.0
           },
           "subCategories": [
             {
@@ -141,7 +141,9 @@
           "excludeList": [],
           "name": "gui.xaero_entity_category_friendly",
           "protection": true,
-          "settingOverrides": {},
+          "settingOverrides": {
+            "displayed": false
+          },
           "subCategories": [
             {
               "hardInclude": "tamed",
@@ -169,6 +171,7 @@
       "name": "gui.xaero_entity_category_items",
       "protection": true,
       "settingOverrides": {
+        "displayed": false,
         "renderOrder": 1.0,
         "color": 12.0
       },
